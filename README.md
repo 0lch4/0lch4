@@ -9,7 +9,7 @@
 <h4>Szczególnie podoba mi się samodzielne stworzenie jakiejś rzeczy oraz rozwiązywanie różnego rodzaju problemów.</h4>
 <h4>Aktualnie uczę się Pythona oraz zagadnień z nim związanych na studiach, ale oprócz tego w dużej mierze we własnym zakresie.</h4>
 <h4>Na tym profilu będę zamieszczał moje autorskie ciekawe projekty, które będę realizował w trakcie nauki<h4>
-<h4>Oprócz programowania i hardwear'u interesuję się również muzyką, grami i motoryzacją. Lubię również las, szczególnie w sezonie grzybobrania</h4>
+<h4>Oprócz programowania i hardwear'u interesuję się również muzyką, grami, gotowaniem i motoryzacją. Lubię również las, szczególnie w sezonie grzybobrania</h4>
   
 <h3>Uczę się: Python/Rest Api/Bash/Git/Docker</h3>
 
