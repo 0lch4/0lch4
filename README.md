@@ -1,6 +1,5 @@
 <h2>Cześć, jestem Bartek</h2>
 
-<h3>O mnie:</h3>
 <h4>Od najmłodszych lat interesuję się technologią i od zawsze wiedziałem, że chcę iść w tym kierunku.</h4>
 <h4>Drogę do swojego celu zacząłem realizować już po skończeniu podstawówki - poszedłem do gimnazjum informatycznego.</h4>
 <h4>Z początku szczególnie interesowałem się hardwearem, potrafiłem złożyć komputer oraz naprawić większość rzeczy już w gimnazjum.</h4>
