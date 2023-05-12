@@ -11,6 +11,6 @@
 <h4>Na tym profilu będę zamieszczał moje autorskie ciekawe projekty, które będę realizował w trakcie nauki<h4>
 <h4>Oprócz programowania i hardwear'u interesuję się również muzyką, grami, gotowaniem i motoryzacją. Lubię również las, szczególnie w sezonie grzybobrania</h4>
   
-<h3>Uczę się: Python/Rest Api/Bash/Git/Docker</h3>
+<h3>Uczę się: Python/Rest Api/Bash/Git/Docker/MySQL</h3>
 
   
