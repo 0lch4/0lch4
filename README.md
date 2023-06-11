@@ -14,11 +14,11 @@ In technical school, I became more interested in softwear, but these were rather
 
 After graduating from technical high school, I went to study computer science, where I got really into programming especially in Python.
 
-I am currently learning Python and tools related to it at university, but also largely on my own.
+I currently learning Python and tools related to it at university, but also largely on my own.
 
-On this profile I will post my own interesting projects that I will created when im learning.
+On this profile I will post my own interesting projects that I will created when I learning.
 
-Except programming and hardware I'm also interested in music, games, cooking and forest, especially in the mushroom picking season.
+Except programming and hardware I also interested in music, games, cooking and forest, especially in the mushroom picking season.
   
 ## Technologies what I learning about:
 
