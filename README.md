@@ -22,11 +22,11 @@ Except programming and hardware I also interested in music, games, cooking and f
   
 ## Technologies what I learning about:
 
--Python
--Rest Api
--Git
--Docker
--Bash
--MySQL
--FastAPI
--Django
+Python,
+Rest Api,
+Git,
+Docker,
+Bash,
+MySQL,
+FastAPI,
+Django
