@@ -1,16 +1,32 @@
-<h2>Cześć, jestem Bartek</h2>
+## Hi, I'm Bartek
 
-<h4>Od najmłodszych lat interesuję się technologią i od zawsze wiedziałem, że chcę iść w tym kierunku.</h4>
-<h4>Drogę do swojego celu zacząłem realizować już po skończeniu podstawówki - poszedłem do gimnazjum informatycznego.</h4>
-<h4>Z początku szczególnie interesowałem się hardwearem, potrafiłem złożyć komputer oraz naprawić większość rzeczy już w gimnazjum.</h4>
-<h4>Następnie udałem się do technikum informatycznego, gdzie dalej się rozwijałem, wiele osób zwracało do mnie gdy potrzebowało pomocy z komputerem lub aby im doradzić co kupić.</h4>
-<h4>W technikum zacząłem bardziej interesować się softwearem, jednak były to raczej proste rzeczy typowo do egzaminu zawodowego ee09.</h4>
-<h4>Po skończeniu technikum udałem się na studia informatyczne, gdzie strasznie się wkręciłem w programowanie.</h4>
-<h4>Szczególnie podoba mi się samodzielne stworzenie jakiejś rzeczy oraz rozwiązywanie różnego rodzaju problemów.</h4>
-<h4>Aktualnie uczę się Pythona oraz zagadnień z nim związanych na studiach, ale oprócz tego w dużej mierze we własnym zakresie.</h4>
-<h4>Na tym profilu będę zamieszczał moje autorskie ciekawe projekty, które będę realizował w trakcie nauki<h4>
-<h4>Oprócz programowania i hardwear'u interesuję się również muzyką, grami, gotowaniem, wypiekami i motoryzacją. Lubię również las, szczególnie w sezonie grzybobrania</h4>
-  
-<h3>Uczę się: Python/Rest Api/Bash/Git/Docker/MySQL</h3>
+## About me:
 
+From an early age I have been interested in technology.
+
+I started pursuing my goal after finishing elementary school - I went to IT middle school.
+
+At the beginning, I was particularly interested in hardware, I could assemble a computer and fix most things in middle school.
+
+Then I went to an IT technical school, where I continued my development.
+
+In technical school, I became more interested in softwear, but these were rather simple things, typically for ee09.
+
+After graduating from technical high school, I went to study computer science, where I got really into programming especially in Python.
+
+I am currently learning Python and tools related to it at university, but also largely on my own.
+
+On this profile I will post my own interesting projects that I will created when im learning.
+
+Except programming and hardware I'm also interested in music, games, cooking and forest, especially in the mushroom picking season.
   
+## Technologies what I learning about:
+
+-Python
+-Rest Api
+-Git
+-Docker
+-Bash
+-MySQL
+-FastAPI
+-Django
