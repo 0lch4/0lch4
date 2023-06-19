@@ -30,3 +30,10 @@ Bash,
 MySQL,
 FastAPI,
 Django
+
+## IDE: Visual Studio Code
+
+## OS: 
+
+Windows 10,
+Linux EndeavourOS
