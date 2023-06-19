@@ -31,7 +31,9 @@ MySQL,
 FastAPI,
 Django
 
-## IDE: Visual Studio Code
+## IDE: 
+
+Visual Studio Code
 
 ## OS: 
 
